@@ -1,0 +1,10 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://wkrause13.github.io"
+title: "Simple Github Blog"
+canonifyurls: true
+...
